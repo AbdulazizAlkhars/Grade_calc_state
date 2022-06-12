@@ -78,7 +78,7 @@ class _HomePageState extends State<HomePage> {
                 grade,
                 style: TextStyle(
                     color: grade == "F" ? Colors.black : Colors.red,
-                    fontSize: 45),
+                    fontSize: 50),
               )
             ]),
       ),
